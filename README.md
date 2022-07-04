@@ -5,7 +5,7 @@ Every block will emit heat dependent on the type.
 
 Heat will spreead through a 3d heat field.
 That's just one fields of the  that are planned:
-\nHeat (3d)
+\n Heat (3d)
 \nPressure (3d)
 \nLiquid level/type (3d)
 \nAltitude (2d) (genrated)
