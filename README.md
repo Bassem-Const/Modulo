@@ -3,7 +3,7 @@ A mod about modularity. (and environmental effects)
 
 Every block will emit heat dependent on the type.
 
-Heat will spreead through a 3d heat field.
+Heat will spread through a 3d heat field.
 
 That's just one fields of the  that are planned:
 
