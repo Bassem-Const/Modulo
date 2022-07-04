@@ -5,10 +5,10 @@ Every block will emit heat dependent on the type.
 
 Heat will spreead through a 3d heat field.
 That's just one fields of the  that are planned:
-Heat (3d)
-Pressure (3d)
-Liquid level/type (3d)
-Altitude (2d) (genrated)
-Radiation density (3d) (segregated into types (alpha/beta))
-Lead content (2.5d) (generated)
-Luminosity (2d) (for solar panels)
+\nHeat (3d)
+\nPressure (3d)
+\nLiquid level/type (3d)
+\nAltitude (2d) (genrated)
+\nRadiation density (3d) (segregated into types (alpha/beta))
+\nLead content (2.5d) (generated)
+\nLuminosity (2d) (for solar panels)
