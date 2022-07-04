@@ -7,16 +7,16 @@ Heat will spreead through a 3d heat field.
 
 That's just one fields of the  that are planned:
 
-Heat (3d)
+  Heat (3d)
 
-Pressure (3d)
+  Pressure (3d)
 
-Liquid level/type (3d)
+  Liquid level/type (3d)
 
-Altitude (2d) (genrated)
+  Altitude (2d) (genrated)
 
-Radiation density (3d) (segregated into types (alpha/beta))
+  Radiation density (3d) (segregated into types (alpha/beta))
 
-Lead content (2.5d) (generated)
+  Lead content (2.5d) (generated)
 
-Luminosity (2d) (for solar panels)
+  Luminosity (2d) (for solar panels)
